@@ -1,0 +1,25 @@
+.carousel {
+    height: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+
+    .carousel-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        cursor: pointer;
+        text-transform: uppercase;
+        color: white;
+        text-decoration: none;
+
+        .carousel-item-img {
+            height: 80px !important;
+            margin-bottom: 10px !important;
+        }
+
+        .carousel-item-price {
+            font-size: 22px !important;
+            font-weight: 500 !important;
+        }
+    }
+}

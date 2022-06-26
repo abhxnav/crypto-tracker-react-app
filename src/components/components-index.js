@@ -1,0 +1,12 @@
+export { default as Banner } from "./banner/Banner";
+export { default as Carousel } from "./carousel/Carousel";
+export { default as CoinInfo } from "./coinInfo/CoinInfo";
+export { default as CoinsTable } from "./coinsTable/CoinsTable";
+export { default as Header } from "./header/Header";
+export { default as SelectButton } from "./selectButton/SelectButton";
+export { default as AuthModal } from "./authentication/AuthModal";
+export { default as Login } from "./authentication/Login";
+export { default as SignUp } from "./authentication/SignUp";
+export { default as Alert } from "./alert/Alert";
+export { default as UserSidebar } from "./userSidebar/UserSidebar";
+export { default as Footer } from "./footer/Footer";
